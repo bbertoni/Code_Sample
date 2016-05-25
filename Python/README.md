@@ -19,4 +19,4 @@ The output data can by plotted using mk_plot.py which is executed in the shell b
 
 python mk_plot.py random 
 
-where random is the random number which was generated when running run_JB_vel_corr_polygon_boot.sh and was using to label the output folder which contains all of the output.
+where random is the random number which was generated when running run_JB_vel_corr_polygon_boot.sh and was using to label the output folder which contains all of the output.  An example of the output from this code is shown in the file JB_mangle_halo02.png.
