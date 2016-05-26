@@ -168,7 +168,7 @@ for i in range(int(bins)):
         
 psi1out.close()
 
-# This output data can by plotted using mk_plot.py.
+# This output data can be plotted using mk_plot.py.
 
 
 
