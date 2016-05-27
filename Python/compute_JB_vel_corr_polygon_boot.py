@@ -77,7 +77,7 @@ vLOS = array(vLOS)
 ###############################################################################################
 
 # put an additional cut on the data, restricting |vLOS| < 600 km/s, to remove outliers that 
-# could make the velocity correlation function are to interpret.
+# could make the velocity correlation function hard to interpret.
 vals = abs(vLOS) < 600
 
 xpos = xpos[vals]
