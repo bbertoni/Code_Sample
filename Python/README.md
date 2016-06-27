@@ -1,4 +1,4 @@
-## Python Code Sample Readme
+## Code Readme
 --Bridget Bertoni 5/20/2016
 
 
